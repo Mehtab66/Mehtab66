@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I'm Mehtab Ahmed
 
-<!--
-**Mehtab66/Mehtab66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+
+
+🚀 About Me
+Passionate software engineer with leadership experience in building robust systems. I thrive on creating scalable full-stack applications and leading teams to deliver innovative solutions. When I'm not coding, you can find me strategizing in games or exploring new tech.
+🔭 Currently working on: Full-stack applications using React.js, React Native, Node.js, and MongoDB with AWS cloud infrastructure.🌱 Learning: Advanced cloud technologies and containerization with Docker.💬 Ask me about: Full-stack development, team leadership, and scalable backend systems.🎮 Fun fact: A gamer who enjoys strategic gameplay and teamwork both on and off the screen.
+⚡ Tech Stack
+
+🐍 My Contributions
+
+📊 GitHub Stats
+
+  
+  
+  
+
+
+📫 Connect with Me
+
+  
+  
+  
