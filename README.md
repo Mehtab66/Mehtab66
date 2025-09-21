@@ -3,7 +3,7 @@
 **Full Stack Developer** skilled in React.js, Next.js, Node.js, and MongoDB. Experienced in building scalable web apps with REST APIs, WebSockets, and real-time features.
 
 <p align="center">
-  <a href="mailto:mohamadmehtabahmed@gmail.com">
+  <a href="mailto:mehtabahmed7777777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="tel:+923430519849">
@@ -12,13 +12,10 @@
   <a href="https://www.linkedin.com/in/mehtab-ahmed58">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Mehtab66">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;React+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;React+Specialist;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
@@ -29,7 +26,7 @@ I'm a passionate Full Stack Developer with expertise in React.js, Next.js, Node.
 - 🌱 I’m learning **advanced cloud technologies and Docker**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, or WebSockets**
-- 📫 How to reach me: **mohamadmehtabahmed@gmail.com**
+- 📫 How to reach me: **mehtabahmed7777777@gmail.com**
 - ⚡ Fun fact: **I'm a gamer who enjoys strategic gameplay**
 
 ## 🛠️ Technologies & Tools
@@ -80,28 +77,6 @@ I'm a passionate Full Stack Developer with expertise in React.js, Next.js, Node.
 - Developed responsive UI with Tailwind CSS, modular design, and Zustand state management
 - Deployed on AWS EC2 and Vercel with CI/CD pipelines
 
-## 🚀 Projects
-
-### [Scam Eye – AI-Powered Scam Detection Web App](https://github.com/Mehtab66)
-Developed an AI-powered web app using Next.js to detect scam messages, featuring a responsive UI with real-time interaction.
-
-**Tech Stack:** `Next.js` `Firebase Auth` `BullMQ` `Stripe` `Zustand` `Tailwind CSS`
-
-### [Falkie – Full Stack Company Management System](https://github.com/Mehtab66)
-Built a comprehensive platform using the MERN stack for managing projects, clients, employees, and team communication.
-
-**Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `WebSockets`
-
-### [Social Pro– AI-Powered Social Media Automation](https://github.com/Mehtab66)
-Developed an AI-driven web app using the MERN stack for streamlined social media content creation, scheduling, and publishing.
-
-**Tech Stack:** `MERN Stack` `GPT Integration` `RESTful APIs`
-
-### [Real Time Chat Application](https://github.com/Mehtab66)
-Built a real-time announcement web app using the MERN stack with WebSocket integration.
-
-**Tech Stack:** `WebSockets` `MERN Stack` `Real-time`
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -114,6 +89,7 @@ Built a real-time announcement web app using the MERN stack with WebSocket integ
 </p>
 
 ## 🐍 Contribution Graph
+
 ![Snake animation](https://github.com/Mehtab66/Mehtab66/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Let's Connect
@@ -122,13 +98,7 @@ Built a real-time announcement web app using the MERN stack with WebSocket integ
   <a href="https://www.linkedin.com/in/mehtab-ahmed58">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/Mehtab66">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:mohamadmehtabahmed@gmail.com">
+  <a href="mailto:mehtabahmed7777777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
