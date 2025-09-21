@@ -90,7 +90,7 @@ I'm a passionate Full Stack Developer with expertise in React.js, Next.js, Node.
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Mehtab66/Mehtab66/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mehtab66/Mehtab66/output/github-contribution-grid-snake.svg)
 
 ## 📫 Let's Connect
 
